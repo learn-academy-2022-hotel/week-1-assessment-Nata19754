@@ -102,7 +102,7 @@ console.log(newPadres.length);
 
 // Pseudo code:
 // function/spread operator
-// input:
+// input:string
 // output: backwards string
 
 //process
